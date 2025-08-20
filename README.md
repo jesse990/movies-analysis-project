@@ -4,7 +4,7 @@ A Power BI dashboard exploring movie trends across genres, ratings, revenues, an
 
 ## 📄 Report
 
-- [View PDF](moviespowerbireport.pdf)
+- [View PDF](movies-powerBi_report.pdf)
 - [Dowload Pbix file](movies.pbix)
 
 ## 📌 Features
