@@ -1,5 +1,5 @@
 # 🎬 Movie Analytics Dashboard (Power BI)
-
+https://app.powerbi.com/reportEmbed?reportId=68c9ed69-b05f-4e65-ab97-aee46b8e58e2&autoAuth=true&ctid=d1206943-bfcc-4c74-82d4-05e63a4335bf
 A Power BI dashboard exploring movie trends across genres, ratings, revenues, and production years.
 
 ## 📄 Report
